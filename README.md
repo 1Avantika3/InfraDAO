@@ -79,4 +79,4 @@ Our vision is to democratize access to financial services by creating a transpar
 - **Regulatory Framework**: Work with regulators to establish clear guidelines for decentralized lending
 - **Educational Platform**: Build educational resources to promote financial literacy and DeFi adoption
 - Contract Address:0xfF2d2De2d83eD86401a3593416884c88b844c8e3
-- ![image](https://github.com/user-attachments/assets/4b39a41a-9fb9-4d79-8e4c-4485a5485ee1)
+- ![Screenshot (1)](https://github.com/user-attachments/assets/54e7ec61-0cb8-4cb2-a2ac-bc8b09b80b4e)
